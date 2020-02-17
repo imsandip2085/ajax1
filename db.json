@@ -1,5 +1,5 @@
 {
-    "Person" : [
+    "Person" : {
         {
           "firstName": "Wes1",
           "lastName": "Bos1",
@@ -76,5 +76,5 @@
           "Dob": "14-04-1993"
         }
         
-    ]
+    }
     }
